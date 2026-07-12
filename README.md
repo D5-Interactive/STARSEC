@@ -1,5 +1,7 @@
 # STARSEC
 
+<img width="2048" height="1536" alt="STARSEC-PROMO-ASCII-2" src="https://github.com/user-attachments/assets/5f72d39f-cba0-4608-9d1d-ce4283a08c6d" />
+
 - **!! Starsec is currently in development, check back to see the first releae after november 2026 !!**
 
 STARSEC is a live cybersecurity competition platform where teams operate massive starships (e.g., Imperial Star Destroyer) from within the ship's bridge. It combines real Docker-based cyber attacks with a fully immersive 3D simulation — designed to train cyber students, host at events like Rowdy Cybercon, and serve as a live AV production for streaming.
